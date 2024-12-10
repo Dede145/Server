@@ -1,0 +1,98 @@
+dez. 10, 2024 4:38:49 PM Middleware.ClientMiddleware <init>
+INFO: Middleware is online.
+dez. 10, 2024 4:38:53 PM Middleware.ClientMiddleware <init>
+INFO: Connected to /127.0.0.1 on port 20000.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 0 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 1 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 2 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 3 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 4 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 5 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 6 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 7 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 8 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 9 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 10 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 11 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 12 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 13 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 14 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 15 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 16 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 17 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 18 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 19 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 20 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 21 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 22 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 23 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 24 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 25 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 26 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 27 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 28 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 29 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 30 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 31 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 32 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 33 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 34 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 35 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 36 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 37 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 38 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 39 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 40 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 41 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 42 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 43 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: Received packet 44 from /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware receivePacket
+INFO: /127.0.0.1 requested connection closure.
+dez. 10, 2024 4:39:04 PM Middleware.ClientMiddleware closeConnection
+INFO: Connection with /127.0.0.1 was closed.

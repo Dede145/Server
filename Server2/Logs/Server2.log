@@ -1,0 +1,12 @@
+dez. 10, 2024 4:38:46 PM Server2.Server <init>
+INFO: Server2 is online.
+dez. 10, 2024 4:39:04 PM Server2.Server <init>
+INFO: Connected to /127.0.0.1 on port 30003.
+dez. 10, 2024 4:39:04 PM Server2.Server getRole
+INFO: Current storage request.
+dez. 10, 2024 4:39:04 PM Server2.Server getRole
+INFO: Secondary server.
+dez. 10, 2024 4:39:04 PM Server2.Server closeConnection
+INFO: Connection with server was closed.
+dez. 10, 2024 4:39:04 PM Server2.Server closeConnection
+INFO: Server 2 is offline.

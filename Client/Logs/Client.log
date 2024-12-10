@@ -1,0 +1,102 @@
+dez. 10, 2024 4:38:53 PM Client.Client <init>
+INFO: Connected to localhost/127.0.0.1 on port 20000.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 0 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client getFileName
+INFO: File to be sent: random.txt.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 1 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 2 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 3 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 4 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 5 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 6 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 7 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 8 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 9 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 10 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 11 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 12 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 13 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 14 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 15 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 16 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 17 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 18 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 19 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 20 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 21 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 22 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 23 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 24 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 25 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 26 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 27 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 28 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 29 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 30 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 31 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 32 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 33 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 34 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 35 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 36 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 37 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 38 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 39 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 40 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 41 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 42 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 43 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 44 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendPacket
+INFO: Packet 45 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client sendFile
+INFO: All packets were sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client closeConnection
+INFO: Closed connection to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Client.Client main
+INFO: Client exited MyFiles.

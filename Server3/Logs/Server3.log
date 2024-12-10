@@ -1,0 +1,8 @@
+out. 29, 2024 3:44:17 PM Server3.Server <init>
+INFO: Server3 is online.
+out. 29, 2024 3:44:54 PM Server3.Server <init>
+INFO: Connected to /127.0.0.1 on port 30005.
+out. 29, 2024 3:44:54 PM Server3.Server receiveFile
+INFO: ERROR! An unknown error occured while setting timeout for sockets!
+out. 29, 2024 3:44:54 PM Server3.Server receivePacket
+INFO: ERROR! An unknown error occured while receiving packets!

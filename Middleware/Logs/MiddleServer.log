@@ -1,0 +1,212 @@
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware connectServers
+INFO: Connected to localhost/127.0.0.1 on port 30001.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware connectServers
+INFO: Connected to localhost/127.0.0.1 on port 30003.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware connectServers
+INFO: WARNING: Server localhost/127.0.0.1 on port 30005 is offline!
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware connectServers
+INFO: WARNING: Server localhost/127.0.0.1 on port 30007 is offline!
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware getCurrentStorage
+INFO: Server 1 current storage: 0 MB.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware getCurrentStorage
+INFO: Server 2 current storage: 1 MB.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware roleAssignment
+INFO: Reattempting to connect to port 30000!
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware roleAssignment
+INFO: Reattempting to connect to port 30000!
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware roleAssignment
+INFO: Server 1 set as primary server.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware roleAssignment
+INFO: Server 2 set as secondary server.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware closeExtraConnection
+INFO: Closed connection to IP: /127.0.0.1, on Port: 56347.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware roleAssignment
+INFO: Connection to server 2 was closed.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 0 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendFilename
+INFO: File to be sent: random.txt.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 1 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 2 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 3 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 4 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 5 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 6 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 7 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 8 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 9 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 10 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 11 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 12 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 13 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 14 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 15 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 16 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 17 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 18 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 19 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 20 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 21 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 22 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 23 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 24 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 25 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 26 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 27 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 28 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 29 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 30 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 31 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 32 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 33 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 34 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 35 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 36 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 37 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 38 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 39 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 40 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 41 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 42 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 43 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 44 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 45 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 46 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 47 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 48 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 49 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 50 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 51 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 52 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 53 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 54 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 55 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 56 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 57 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 58 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 59 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 60 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 61 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 62 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 63 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 64 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 65 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 66 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 67 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 68 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 69 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 70 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 71 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 72 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 73 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 74 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 75 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 76 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 77 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 78 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 79 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 80 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 81 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 82 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 83 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 84 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 85 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 86 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 87 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 88 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendPacket
+INFO: Packet 89 sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware sendFile
+INFO: All packets were sent to /127.0.0.1.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware closeMainConnection
+INFO: Closed connection to IP: /127.0.0.1, on Port: 56352.
+dez. 10, 2024 4:39:04 PM Middleware.ServerMiddleware closeMainConnection
+INFO: Application is offline.
